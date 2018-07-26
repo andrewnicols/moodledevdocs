@@ -6,7 +6,7 @@ Moodle has support for a wide range of server environments, and supports a wide 
 The exact versions supported change from version to version, but the general support statements are described here.
 
 Supported Versions of PHP
-=========================
+-------------------------
 
 Since Moodle 3.5 (MDL-59159), these rules apply to decide the Minimum PHP and Moodle versions supported:
 
@@ -18,7 +18,7 @@ Since Moodle 3.5 (MDL-59159), these rules apply to decide the Minimum PHP and Mo
   * The maximum PHP version supported by the previous LTS branch (so we guarantee jumping between LTS is possible without upgrading PHP at the same time).
 
 Supported Database Servers
-==========================
+--------------------------
 
 Moodle officially supports the following Database Engines:
 
