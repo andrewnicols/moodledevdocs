@@ -16,3 +16,4 @@ Welcome to the Moodle Developer Documentation!
    roadmap/index
    testing/index
    requirements
+   releasenotes/index
