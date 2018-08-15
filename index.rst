@@ -6,7 +6,7 @@ Welcome to the Moodle Developer Documentation!
 .. _Moodle: https://moodle.org
 
 .. toctree::
-   :maxdepth: 6
+   :maxdepth: 2
    :caption: Contents:
 
    getting-started/index
