@@ -15,12 +15,6 @@ This evolving page lists possible Moodle projects for new developers derived fro
 
 If you have any ideas for new features in Moodle which might be suitable as projects for new developers, please see New feature ideas.
 
-.. toctree::
-   :maxdepth: 2
-   :glob:
-
-   projects/*
-
 Additional notes for GSOC Students
 ----------------------------------
 
@@ -31,3 +25,13 @@ Moodle tracker before their proposal can be considered.
 This MUST be completed before your application can be considered valid.
 
 .. _Google Summer of Code: https://summerofcode.withgoogle.com/
+
+Projects
+--------
+
+.. toctree::
+   :maxdepth: 1
+   :glob:
+
+   projects/*
+
